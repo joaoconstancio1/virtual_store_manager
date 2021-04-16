@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "675355209363",
+    "project_id": "virtualstore-60908",
+    "storage_bucket": "virtualstore-60908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675355209363:android:22b307880c9646d0a5a766",
+        "android_client_info": {
+          "package_name": "constancio.com.br.virtual_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675355209363-vs62l5krhndsuo9rpelot2vamp68p97t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALk-GPfKCHjz9k-4sFpioaersiUsjbcLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675355209363-vs62l5krhndsuo9rpelot2vamp68p97t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675355209363:android:a1fca9c483a0455da5a766",
+        "android_client_info": {
+          "package_name": "constancio.com.br.virtual_store_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675355209363-vs62l5krhndsuo9rpelot2vamp68p97t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALk-GPfKCHjz9k-4sFpioaersiUsjbcLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675355209363-vs62l5krhndsuo9rpelot2vamp68p97t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
